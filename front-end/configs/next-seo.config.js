@@ -27,7 +27,7 @@ const NextSeoConfig = {
     description: "CASINO SANDS",
     images: [
       {
-        url: "https://i.postimg.cc/7LywJSxS/cdf96d7b-a88e-4d37-b0e8-26113e2f0282.jpg",
+        url: "https://i.ibb.co/8LN2Dc9s/111.jpg",
         width: 1200,
         height: 628,
       },
