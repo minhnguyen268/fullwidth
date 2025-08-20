@@ -151,6 +151,13 @@ const Home = () => {
 
   const LIST_GAME = [
     {
+      title: t("KENO 5M"),
+      desc: t("Mo ta keno 5p"),
+      img: Keno5P,
+      link: "/games/keno5p",
+      active: games["keno5P"] !== "inactive",
+    },
+    {
       title: t("KENO 3M"),
       desc: t("Mo ta keno 3p"),
       img: Keno3P,
@@ -177,13 +184,6 @@ const Home = () => {
       img: Keno1P,
       link: "/games/keno1p",
       active: games["keno1P"] !== "inactive",
-    },
-    {
-      title: t("KENO 5M"),
-      desc: t("Mo ta keno 5p"),
-      img: Keno5P,
-      link: "/games/keno5p",
-      active: games["keno5P"] !== "inactive",
     },
     {
       title: t("DICE 1M"),
